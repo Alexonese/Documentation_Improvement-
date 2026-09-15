@@ -1,5 +1,7 @@
 site_name: PrintVis Documentation
 site_url: https://alexonese.github.io/documentation
+repo_url: https://github.com/alexonese/documentation
+edit_uri: edit/main/docs/
 site_author: PrintVis, Inc.
 nav:
   - Welcome: 
