@@ -334,6 +334,8 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.annotate
+    - content.action.edit
+    - content.action.view
   language: en
   palette:
     scheme: white
