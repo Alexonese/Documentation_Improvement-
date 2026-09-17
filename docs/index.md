@@ -1,3 +1,4 @@
+<img width="1130" height="810" alt="Screenshot 2026-08-25 103101" src="https://github.com/user-attachments/assets/1bfe797f-5f26-4e23-ba02-59f57e38c410" />
 # Welcome to learn.printvis.com
 
 **This site contains product documentation for PrintVis. For company information, news, and official content, please visit the official PrintVis <a href="https://printvis.com" target="_blank">website</a>**
@@ -13,3 +14,4 @@ Discover how to make the most of PrintVis powered by Business Central with train
 Test Edit
 
 NEW Test Edit 
+![Uploading Screenshot 2026-08-25 103101.png…]()
