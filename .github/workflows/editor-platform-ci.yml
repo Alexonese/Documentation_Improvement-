@@ -1,0 +1,51 @@
+name: Editor platform CI
+
+on:
+  pull_request:
+    paths:
+      - "editor-platform/**"
+      - ".github/workflows/editor-platform-ci.yml"
+
+  push:
+    branches:
+      - main
+    paths:
+      - "editor-platform/**"
+      - ".github/workflows/editor-platform-ci.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build and lint
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: editor-platform
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: |
+            editor-platform/apps/web/package-lock.json
+            editor-platform/apps/api/package-lock.json
+
+      - name: Install frontend dependencies
+        run: npm ci --prefix apps/web
+
+      - name: Install backend dependencies
+        run: npm ci --prefix apps/api
+
+      - name: Lint frontend
+        run: npm run lint:web
+
+      - name: Build frontend and backend
+        run: npm run build
