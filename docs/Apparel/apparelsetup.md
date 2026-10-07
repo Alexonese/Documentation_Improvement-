@@ -1,4 +1,4 @@
-# Apparel Installation and Setup
+# TEST
 
 PrintVis must be installed prior to installing the Apparel app.
 
