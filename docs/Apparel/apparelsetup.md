@@ -2,6 +2,8 @@
 
 PrintVis must be installed prior to installing the Apparel app.
 
+Testing language
+
 ## Installation
 1. Go to the Extension Marketplace and search PrintVis. Select “Get it now” below the PrintVis Apparel app and agree to the terms.
 
