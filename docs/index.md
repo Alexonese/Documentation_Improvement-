@@ -12,3 +12,5 @@ Whether you produce books, labels, packaging, apparel, large-format or commercia
 Discover how to make the most of PrintVis powered by Business Central with training, docs, and videos covering product capabilities and how-to articles. Learn how to use PrintVis to manage, adapt, and streamline your operation.
 
 
+<img src="./assets/Screenshot-2026-10-12-113517-7d207877-7f3e-40ca-baf5-8db7766229e5.png" alt="Screenshot 2026-10-12 113517" align="left">
+
