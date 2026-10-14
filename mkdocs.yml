@@ -318,6 +318,8 @@ nav:
           - Dynaway: Legacy/Integrations/Dynaway.md
           - Kodak DPP: Legacy/Integrations/KodakDPP.md
   - PrintVis User Group: pug.md
+  - Test Section:
+      - Overview: Test-Section/index.md
 
 theme:
   name: material
