@@ -9,6 +9,8 @@ nav:
       - User: PrintVis/user.md
       - Not Welcome:
           - Overview: Welcome/Not-Welcome/index.md
+          - No, actually it is a welcome:
+              - Overview: Welcome/Not-Welcome/No-actually-it-is-a-welcome/index.md
   - PrintVis setup:
       - Setup overview: PrintVis/setup.md
       - General setup: PrintVis/generalsetup.md
