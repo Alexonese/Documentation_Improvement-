@@ -7,6 +7,8 @@ nav:
   - Welcome:
       - PrintVis documentation: index.md
       - User: PrintVis/user.md
+      - Not Welcome:
+          - Overview: Welcome/Not-Welcome/index.md
   - PrintVis setup:
       - Setup overview: PrintVis/setup.md
       - General setup: PrintVis/generalsetup.md
