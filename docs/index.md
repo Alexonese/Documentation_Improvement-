@@ -10,7 +10,3 @@ Powered by Microsoft Dynamics 365 Business Central, PrintVis combines robust bus
 Whether you produce books, labels, packaging, apparel, large-format or commercial print, PrintVis provides a complete cloud-based, end-to-end system to manage your operations efficiently and scale with your business.
 
 Discover how to make the most of PrintVis powered by Business Central with training, docs, and videos covering product capabilities and how-to articles. Learn how to use PrintVis to manage, adapt, and streamline your operation.
-
-
-![Screenshot 2026-10-12 11351743](./assets/Screenshot-2026-10-12-11351743-a1ca0298-26b6-495d-9dc9-d7753f9b62ed.png)
-
