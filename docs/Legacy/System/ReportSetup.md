@@ -513,13 +513,15 @@ PrintVis Report Setup are the following:
 
 -   Price Columns
 
-    -   To build a pricing grid for all versions of a quote / or the
-        order job lines.
+    -   To build a pricing grid for all versions of a quote / or the order job lines. 
+***Note***: Price columns only support job / case table fields and not detailed information from calculation units 
 
-    -   Max. 6 columns can be used. Make sure you only have as many
-        columns in the report layout that are setup in the report setup.
+    -   Max. 6 columns can be used. Make sure you only have as many columns in the report layout that are setup in the report setup. 
 
-    -   ![Report Setup](./assets/RS11.png) Result
+
+    -   ![Report Setup](./assets/Price-Columns-9a180d3d-3354-4549-9f4b-1938f3b8c684.png)
+
+ Result
 
     -   ![Report Setup](./assets/RS12.png)
 
