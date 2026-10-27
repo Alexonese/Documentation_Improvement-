@@ -45,7 +45,6 @@ PrintVis Apparel uses Decoration Types and Decoration Placements and other small
 **Set up Decoration Types:**
 1. Search for “Decoration Types” and select the PrintVis Decoration Types page.
 2. Click + New and enter a code and description for each of the decoration types possible in your company. It is also possible to set a default list of units, finishing type, scrap %, minimum scrap, or item type code for each decoration type. These defaults are automatically added to the case when the decoration type is selected.
-![Decoration Type](./assets/AppSetup5.jpg)
 
 **Set up Placements:**
 Placements is an assisting table which refers to where the decoration is placed. For example Front, Left sleeve or Side panel – depending on what type of garment or material we are decorating.
