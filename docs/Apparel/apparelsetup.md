@@ -5,7 +5,6 @@ PrintVis must be installed prior to installing the Apparel app.
 ## Installation
 1. Go to the Extension Marketplace and search PrintVis. Select “Get it now” below the PrintVis Apparel app and agree to the terms.
 
-![Installation](./assets/AS1.jpg)
 
 ## General Setup
 1. Search for “Industry Captions” and select the PrintVis Industry Captions page.
