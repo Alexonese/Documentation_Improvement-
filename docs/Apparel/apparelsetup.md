@@ -78,7 +78,7 @@ Brand Color is a given from the vendor. The style has both Brand Color and Color
    ![Figure 8: The Style Card. Use the Style Card to enter relevant information in the fields.](./assets/AppSetup13.jpg)
 
 The style card is where we associate items and styles.
-
+66
 #### Size
 
 The size of the garment or item.
@@ -102,19 +102,4 @@ The way we handle the garment items is completely different from normal PrintVis
 
 With the extension is also brought some specific calculation formulas for fetching data to the estimation.
 
-![Figure 11: Extension calculation formula.](./assets/AppSetup17.jpg)
-
-![Cost Center Setup - Configuration - Rates - Groups 7.5](./assets/Cost-Center-Setup---Configuration---Rates---Grou-4646c9cf-63f6-4593-8eea-a4fef3dd73e6.png)
-
-![Cost Center Setup - Configuration - Rates - Groups 8.5](./assets/Cost-Center-Setup---Configuration---Rates---Grou-0d150b6d-5da4-4f12-853c-952c1ef2e2b2.png)
-
-![Cost Center Setup - Configuration - Rates - Groups 12](./assets/Cost-Center-Setup---Configuration---Rates---Grou-14c9c3bd-f1bd-4400-8a1b-1e69e44096eb.png)
-
-![Cost Center Setup - Configuration - Rates - Groups 19.](./assets/Cost-Center-Setup---Configuration---Rates---Grou-45973c01-9580-470f-9f6d-c2bf1706504e.png)
-
-![Factbox Cost Center Picture 1](./assets/Factbox-Cost-Center-Picture-1-fec26482-ea28-4220-9281-c5b9e4621a79.png)
-
-![Factbox Cost Center Picture 2](./assets/Factbox-Cost-Center-Picture-2-08c5cafa-f843-4212-b8ba-9a985d1de813.png)
-
-![Factbox Cost Center Picture 3](./assets/Factbox-Cost-Center-Picture-3-bcf5e3d6-2290-4436-b18e-21b3cdb952b1.png)
 
