@@ -42,3 +42,10 @@ Discover how to make the most of PrintVis powered by Business Central through tr
 Learn how to use PrintVis to manage, adapt, and streamline your operation.
 
 ![PrintVis learning resources](./assets/Screenshot-2026-10-12-11351743-f017a7d1-a8f3-4ebd-8f94-cc1bf9265620.png)
+
+
+<span style="color:red">This should be red.</span>
+
+<span style="color:#008000">This should be green.</span>
+
+<span style="background-color:yellow">This should have a yellow background.</span>
