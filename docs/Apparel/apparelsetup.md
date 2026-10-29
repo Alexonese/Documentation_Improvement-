@@ -1,9 +1,12 @@
 # Apparel Installation and Setup
 
-PrintVis must be installed prior to installing the Apparel app.
+<span style="color:#b42318">PrintVis must be installed prior to installing the Apparel app.</span>
 
 ## Installation
-1. Go to the Extension Marketplace and search PrintVis. Select “Get it now” below the PrintVis Apparel app and agree to the terms.
+
+---
+
+> **Note:** 1. Go to the Extension Marketplace and search PrintVis. Select “Get it now” below the PrintVis Apparel app and agree to the terms.
 
 
 ## General Setup
