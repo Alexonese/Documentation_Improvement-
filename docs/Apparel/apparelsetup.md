@@ -1,5 +1,9 @@
 # Apparel Installation and Setup
 
+![Screenshot 2026-11-04 143957](./assets/Screenshot-2026-11-04-143957-7fe32f13-32b0-4201-a369-9e4c7dce16a3.png)
+
+
+
 PrintVis must be installed prior to installing the Apparel app.
 
 ## Installation
