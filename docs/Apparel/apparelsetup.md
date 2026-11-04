@@ -1,6 +1,6 @@
-## Apparel Setup Test Branch 
+## Apparel Setup Test Branch Addition COmmit 
 
-![Factbox Cost Center Picture 3](./assets/Factbox-Cost-Center-Picture-3-de3b5c3f-a485-4c9b-8809-e5ea70f38e91.png)
+![Factbox Cost Center Picture 3](./assets/Factbox-Cost-Center-Picture-3-de3b5c3f-a485-4c9b-8809-e5ea70f38e91.png) 
 
 PrintVis must be installed prior to installing the Apparel app.
 
