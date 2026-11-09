@@ -317,6 +317,7 @@ nav:
           - XMPie: Legacy/Integrations/XMPie.md
           - Dynaway: Legacy/Integrations/Dynaway.md
           - Kodak DPP: Legacy/Integrations/KodakDPP.md
+          - Color Kitchen: Support-portal-documentation/Integrations/Color-Kitchen.md
   - PrintVis User Group: pug.md
   - Test Section:
       - Overview: Test-Section/index.md
