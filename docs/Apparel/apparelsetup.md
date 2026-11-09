@@ -5,6 +5,7 @@ PrintVis must be installed prior to installing the Apparel app.
 ## Installation
 1. Go to the Extension Marketplace and search PrintVis. Select “Get it now” below the PrintVis Apparel app and agree to the terms.
 
+![Installation](./assets/AS1.jpg)
 
 ## General Setup
 1. Search for “Industry Captions” and select the PrintVis Industry Captions page.
@@ -78,7 +79,7 @@ Brand Color is a given from the vendor. The style has both Brand Color and Color
    ![Figure 8: The Style Card. Use the Style Card to enter relevant information in the fields.](./assets/AppSetup13.jpg)
 
 The style card is where we associate items and styles.
-66
+
 #### Size
 
 The size of the garment or item.
@@ -102,4 +103,4 @@ The way we handle the garment items is completely different from normal PrintVis
 
 With the extension is also brought some specific calculation formulas for fetching data to the estimation.
 
-
+![Figure 11: Extension calculation formula.](./assets/AppSetup17.jpg)
