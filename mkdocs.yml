@@ -64,7 +64,7 @@ nav:
     - Apparel overview: Apparel/index.md
     - Apparel setup: Apparel/apparelsetup.md
     - Apparel usage: Apparel/apparelusage.md
-  - Integrations: ../Integrations/
+  - Integrations: Integrations/
   - Support portal documentation:
     - General:
       - PrintVis overview: Legacy/General/printvisoverview.md
