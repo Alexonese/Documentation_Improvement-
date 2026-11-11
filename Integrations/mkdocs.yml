@@ -6,23 +6,24 @@ use_directory_urls: true
 nav:
   - learn.printvis.com: ../
   - CarbonQuota:
-    - CarbonQuota overview: CarbonQuota/CQoverview.md
-    - CarbonQuota setup: CarbonQuota/CQsetup.md
-    - CarbonQuota usage: CarbonQuota/CQusage.md
+      - CarbonQuota overview: CarbonQuota/CQoverview.md
+      - CarbonQuota setup: CarbonQuota/CQsetup.md
+      - CarbonQuota usage: CarbonQuota/CQusage.md
   - Docubee:
-    - Docubee overview: Docubee/DocubeeOverview.md
-    - Docubee setup: Docubee/DocubeeSetup.md
-    - Docubee usage: Docubee/DocubeeUsage.md
+      - Docubee overview: Docubee/DocubeeOverview.md
+      - Docubee setup: Docubee/DocubeeSetup.md
+      - Docubee usage: Docubee/DocubeeUsage.md
   - LoyaltyLoop:
-    - LoyaltyLoop overview: LoyaltyLoop/LLoverview.md
-    - LoyaltyLoop setup: LoyaltyLoop/llsetup.md
-    - LoyaltyLoop usage: LoyaltyLoop/llusage.md
+      - LoyaltyLoop overview: LoyaltyLoop/LLoverview.md
+      - LoyaltyLoop setup: LoyaltyLoop/llsetup.md
+      - LoyaltyLoop usage: LoyaltyLoop/llusage.md
   - Shopify:
-    - Shopify setup: Shopify/Shopify.md
+      - Shopify setup: Shopify/Shopify.md
   - Spencer Metrics:
-    - Spencer Metrics overview: SpencerMetrics/SMoverview.md
-    - Spencer Metrics setup: SpencerMetrics/SMsetup.md
-    - Spencer Metrics usage: SpencerMetrics/SMusage.md
+      - Spencer Metrics overview: SpencerMetrics/SMoverview.md
+      - Spencer Metrics setup: SpencerMetrics/SMsetup.md
+      - Spencer Metrics usage: SpencerMetrics/SMusage.md
+  - IntegratinonNewArTest: IntegratinonNewArTest.md
 theme:
   name: material
   features:
@@ -48,7 +49,7 @@ theme:
   logo: img/logo.png
   favicon: img/bee.jpg
 
-extra_css: [stylesheets/extra.css]
+extra_css: [ stylesheets/extra.css ]
 
 extra:
   homepage: https://printvis.com
