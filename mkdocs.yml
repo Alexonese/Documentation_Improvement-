@@ -315,6 +315,7 @@ nav:
       - XMPie: Legacy/Integrations/XMPie.md
       - Dynaway: Legacy/Integrations/Dynaway.md
       - Kodak DPP: Legacy/Integrations/KodakDPP.md
+      - ColorBlabla: Support-portal-documentation/Integrations/ColorBlabla.md
   - PrintVis User Group: pug.md
     
 theme:
