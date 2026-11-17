@@ -24,6 +24,7 @@ nav:
       - Spencer Metrics setup: SpencerMetrics/SMsetup.md
       - Spencer Metrics usage: SpencerMetrics/SMusage.md
   - IntegratinonNewArTest: IntegratinonNewArTest.md
+  - TestFinalArticle: TestFinalArticle.md
 theme:
   name: material
   features:
