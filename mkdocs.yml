@@ -4,6 +4,7 @@ site_author: PrintVis, Inc.
 nav:
   - Welcome: 
     - PrintVis documentation: index.md
+    - "24343": Welcome/24343.md
   - PrintVis setup:
     - Setup overview: PrintVis/setup.md
     - General setup: PrintVis/generalsetup.md
